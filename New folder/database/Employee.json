@@ -1,0 +1,40 @@
+{
+    "users" : 
+    [
+        {
+            "name": "abed",
+            "email": "a@a.com",
+            "salary": "12313",
+            "gender": "male",
+            "password": "12123dasas"
+        } ,
+        {
+            "name": "abeeed",
+            "email": "a@a.com",
+            "salary": "12313",
+            "gender": "male",
+            "password": "12123dasas"
+        } ,
+        {
+            "name": "abed",
+            "email": "a@a.com",
+            "salary": "12313",
+            "gender": "male",
+            "password": "12123dasas"
+        } ,
+        {
+            "name": "abed",
+            "email": "a@a.com",
+            "salary": "12313",
+            "gender": "male",
+            "password": "12123dasas"
+        } ,
+        {
+            "name": "abed",
+            "email": "a@a.com",
+            "salary": "12313",
+            "gender": "male",
+            "password": "12123dasas"
+        } 
+    ]
+}

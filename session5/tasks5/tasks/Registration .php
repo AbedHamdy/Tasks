@@ -6,7 +6,7 @@
         <title>Document</title>
     </head>
     <body>
-        <form action="" method="POST">
+        <form action="./data.php" method="POST">
             <label for="name">Name</label>
             <input type="text" name="name" placeholder="Enter Username" id="name">
             <br>
@@ -26,21 +26,7 @@
             <button>submit</button>
         </form>
 
-        <?php 
-
-            if($_SERVER["REQUEST_METHOD"] == "POST")
-            {
-                echo "name : " . $_POST["name"] . "<br>";
-                echo "email : " . $_POST["email"] . "<br>";
-                echo "password : " . $_POST["password"] . "<br>";
-                echo "phone : " . $_POST["phone"] . "<br>";
-            }
         
-        
-        
-        
-        
-        ?>
 
 
 
